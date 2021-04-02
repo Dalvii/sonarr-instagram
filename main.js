@@ -1,3 +1,10 @@
+/*
+    INSTAGRAM SONARR BOT
+    MADE BY DALVI
+    USING Canvas, instagram-web-api, node-schedule
+*/
+
+
 const   {
             instaUsername, instaPass,
             sonarrUrl, sonarrPort, sonarrApi,
