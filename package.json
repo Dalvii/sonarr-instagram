@@ -1,0 +1,26 @@
+{
+  "name": "sonarr-instagram",
+  "version": "1.0.0",
+  "description": "Script for daily Sonarr schedule publication on Instagram stories",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dalvii/sonarr-instagram.git"
+  },
+  "author": "Dalvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dalvii/sonarr-instagram/issues"
+  },
+  "homepage": "https://github.com/Dalvii/sonarr-instagram#readme",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "fs": "0.0.1-security",
+    "instagram-web-api": "^2.2.2",
+    "node-fetch": "^2.6.1",
+    "node-schedule": "^2.0.0"
+  }
+}

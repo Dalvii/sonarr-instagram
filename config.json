@@ -1,0 +1,11 @@
+{
+    "instaUsername": "instaUsername",
+    "instaPass": "instaPass",
+    "sonarrApi": "sonarrApi",
+    "sonarrUrl": "localhost",
+    "sonarrPort": "8989",
+    "background_image": "./assets/templateStory.png",
+    "blank_image": "./assets/blank.png",
+    "output": "/storyOut.jpg",
+    "font_color": "#ffffff"
+}
