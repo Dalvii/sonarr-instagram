@@ -45,6 +45,6 @@ You can change the background of the image by changing the file `/assets/backgro
 
 ## Pictures
 
-![Example 1](https://i.imgur.com/AoZ5eAO.jpg)
+![Example 1](https://i.imgur.com/TmfE2aQ.jpg)
 
-![Example 2](https://i.imgur.com/zfTww6f.jpg)
+![Example 2](https://i.imgur.com/qY7fhvI.jpg)
